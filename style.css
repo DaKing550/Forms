@@ -1,0 +1,13 @@
+.sign-in{
+    border: thick solid black;
+    text-align: center;
+    margin: auto;
+    width: 20%;
+}
+body{
+    background-color: teal;
+}
+button{
+    background-color: blue;
+    color: white;
+}
